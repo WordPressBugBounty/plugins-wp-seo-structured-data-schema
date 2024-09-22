@@ -1,0 +1,1 @@
+# plugins-wp-seo-structured-data-schema
