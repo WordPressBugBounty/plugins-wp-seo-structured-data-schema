@@ -643,8 +643,8 @@ if ( ! class_exists( 'KcSeoSchemaModel' ) ) :
 						if ( ! empty( $metaData['shippingRate'] ) ) {
 							$shippingDetails['shippingRate'] = [
 								'@type'    => 'MonetaryAmount',
-								'value'    => $KcSeoWPSchema->sanitizeOutPut( $metaData['shippingRate'] ),
-								'currency' => $product['offers']['priceCurrency'],
+								'value'    => $KcSeoWPSchema->sanitizeOutPut( $metaData['shippingRate'] ?? '' ),
+								'currency' => $product['offers']['priceCurrency'] ?? '',
 							];
 						}
 						if ( ! empty( $metaData['shippingDestination'] ) ) {

@@ -1,4 +1,4 @@
-# Copyright (C) 2024 WP SEO Structured Data Schema
+# Copyright (C) 2025 WP SEO Structured Data Schema
 # This file is distributed under the same license as the WP SEO Structured Data Schema package.
 msgid ""
 msgstr ""
@@ -6,7 +6,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-08-01 07:25+0000\n"
+"POT-Creation-Date: 2025-05-07 09:33+0000\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -14,67 +14,67 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../lib/classes/KcSeoHelper.php:480
+#: ../lib/classes/KcSeoHelper.php:484
 msgid "Pro Version Features"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:482
+#: ../lib/classes/KcSeoHelper.php:486
 msgid "Includes Auto-fill function <---Popular"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:483
+#: ../lib/classes/KcSeoHelper.php:487
 msgid "Supports Custom Post Types beyond default page and posts"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:484
+#: ../lib/classes/KcSeoHelper.php:488
 msgid "Supports WordPress Multisite"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:485
+#: ../lib/classes/KcSeoHelper.php:489
 msgid "Supports more schema types:"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:487
+#: ../lib/classes/KcSeoHelper.php:491
 msgid "Books"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:488
+#: ../lib/classes/KcSeoHelper.php:492
 msgid "Courses"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:489, ../lib/views/schema-options.php:221
+#: ../lib/classes/KcSeoHelper.php:493, ../lib/views/schema-options.php:227
 msgid "Person"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:490
+#: ../lib/classes/KcSeoHelper.php:494
 msgid "Job Postings"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:491
+#: ../lib/classes/KcSeoHelper.php:495
 msgid "Movies"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:492, ../lib/functions/KcSeoOptions.php:1800
+#: ../lib/classes/KcSeoHelper.php:496, ../lib/functions/KcSeoOptions.php:1800
 msgid "Music"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:493, ../lib/functions/KcSeoOptions.php:1804
+#: ../lib/classes/KcSeoHelper.php:497, ../lib/functions/KcSeoOptions.php:1804
 msgid "Recipe"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:494
+#: ../lib/classes/KcSeoHelper.php:498
 msgid "TV Episode"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:495, ../lib/functions/KcSeoOptions.php:1812
+#: ../lib/classes/KcSeoHelper.php:499, ../lib/functions/KcSeoOptions.php:1812
 msgid "QAPage"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:496, ../lib/functions/KcSeoOptions.php:1816
+#: ../lib/classes/KcSeoHelper.php:500, ../lib/functions/KcSeoOptions.php:1816
 msgid "Item List"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:502
+#: ../lib/classes/KcSeoHelper.php:506
 msgid "Get the Pro Version"
 msgstr ""
 
@@ -86,19 +86,19 @@ msgstr ""
 msgid "Get Pro"
 msgstr ""
 
-#: ../lib/classes/KcSeoInit.php:184, ../lib/views/schema-options.php:7
+#: ../lib/classes/KcSeoInit.php:296, ../lib/views/schema-options.php:7
 msgid "WP SEO Structured Data Schema"
 msgstr ""
 
-#: ../lib/classes/KcSeoInit.php:185
+#: ../lib/classes/KcSeoInit.php:297
 msgid "WP SEO Schema"
 msgstr ""
 
-#: ../lib/classes/KcSeoInit.php:193
+#: ../lib/classes/KcSeoInit.php:305
 msgid "WP SEO Schema settings"
 msgstr ""
 
-#: ../lib/classes/KcSeoInit.php:194
+#: ../lib/classes/KcSeoInit.php:306
 msgid "Settings"
 msgstr ""
 
@@ -114,7 +114,7 @@ msgstr ""
 msgid "Auto Fill"
 msgstr ""
 
-#: ../lib/classes/KcSeoMetaData.php:79, ../lib/views/schema-options.php:318, ../lib/views/settings.php:33, ../lib/views/settings.php:52, ../lib/views/settings.php:78, ../lib/views/settings.php:87
+#: ../lib/classes/KcSeoMetaData.php:79, ../lib/views/schema-options.php:324, ../lib/views/settings.php:33, ../lib/views/settings.php:52, ../lib/views/settings.php:78, ../lib/views/settings.php:87
 msgid "PRO"
 msgstr ""
 
@@ -194,7 +194,7 @@ msgstr ""
 msgid "Logos should have a wide aspect ratio, not a square icon.<br>Logos should be no wider than 600px, and no taller than 60px.<br>Always retain the original aspect ratio of the logo when resizing. Ideally, logos are exactly 60px tall with width <= 600px. If maintaining a height of 60px would cause the width to exceed 600px, downscale the logo to exactly 600px wide and reduce the height accordingly below 60px to maintain the original aspect ratio.<br>"
 msgstr ""
 
-#: ../lib/functions/KcSeoOptions.php:78, ../lib/functions/KcSeoOptions.php:106, ../lib/functions/KcSeoOptions.php:150, ../lib/functions/KcSeoOptions.php:253, ../lib/functions/KcSeoOptions.php:336, ../lib/functions/KcSeoOptions.php:359, ../lib/functions/KcSeoOptions.php:403, ../lib/functions/KcSeoOptions.php:490, ../lib/functions/KcSeoOptions.php:513, ../lib/functions/KcSeoOptions.php:557, ../lib/functions/KcSeoOptions.php:615, ../lib/functions/KcSeoOptions.php:779, ../lib/functions/KcSeoOptions.php:940, ../lib/functions/KcSeoOptions.php:1157, ../lib/functions/KcSeoOptions.php:1220, ../lib/functions/KcSeoOptions.php:1334, ../lib/functions/KcSeoOptions.php:1366, ../lib/functions/KcSeoOptions.php:1505, ../lib/functions/KcSeoOptions.php:1612, ../lib/functions/KcSeoOptions.php:1770, ../lib/views/schema-options.php:170, ../lib/views/schema-options.php:255
+#: ../lib/functions/KcSeoOptions.php:78, ../lib/functions/KcSeoOptions.php:106, ../lib/functions/KcSeoOptions.php:150, ../lib/functions/KcSeoOptions.php:253, ../lib/functions/KcSeoOptions.php:336, ../lib/functions/KcSeoOptions.php:359, ../lib/functions/KcSeoOptions.php:403, ../lib/functions/KcSeoOptions.php:490, ../lib/functions/KcSeoOptions.php:513, ../lib/functions/KcSeoOptions.php:557, ../lib/functions/KcSeoOptions.php:615, ../lib/functions/KcSeoOptions.php:779, ../lib/functions/KcSeoOptions.php:940, ../lib/functions/KcSeoOptions.php:1157, ../lib/functions/KcSeoOptions.php:1220, ../lib/functions/KcSeoOptions.php:1334, ../lib/functions/KcSeoOptions.php:1366, ../lib/functions/KcSeoOptions.php:1505, ../lib/functions/KcSeoOptions.php:1612, ../lib/functions/KcSeoOptions.php:1770, ../lib/views/schema-options.php:176, ../lib/views/schema-options.php:261
 msgid "Description"
 msgstr ""
 
@@ -222,11 +222,11 @@ msgstr ""
 msgid "Video"
 msgstr ""
 
-#: ../lib/functions/KcSeoOptions.php:102, ../lib/functions/KcSeoOptions.php:145, ../lib/functions/KcSeoOptions.php:355, ../lib/functions/KcSeoOptions.php:398, ../lib/functions/KcSeoOptions.php:509, ../lib/functions/KcSeoOptions.php:552, ../lib/functions/KcSeoOptions.php:597, ../lib/functions/KcSeoOptions.php:640, ../lib/functions/KcSeoOptions.php:718, ../lib/functions/KcSeoOptions.php:747, ../lib/functions/KcSeoOptions.php:929, ../lib/functions/KcSeoOptions.php:1151, ../lib/functions/KcSeoOptions.php:1214, ../lib/functions/KcSeoOptions.php:1251, ../lib/functions/KcSeoOptions.php:1329, ../lib/functions/KcSeoOptions.php:1361, ../lib/functions/KcSeoOptions.php:1607, ../lib/functions/KcSeoOptions.php:1833, ../lib/functions/KcSeoOptions.php:1880, ../lib/views/schema-options.php:224
+#: ../lib/functions/KcSeoOptions.php:102, ../lib/functions/KcSeoOptions.php:145, ../lib/functions/KcSeoOptions.php:355, ../lib/functions/KcSeoOptions.php:398, ../lib/functions/KcSeoOptions.php:509, ../lib/functions/KcSeoOptions.php:552, ../lib/functions/KcSeoOptions.php:597, ../lib/functions/KcSeoOptions.php:640, ../lib/functions/KcSeoOptions.php:718, ../lib/functions/KcSeoOptions.php:747, ../lib/functions/KcSeoOptions.php:929, ../lib/functions/KcSeoOptions.php:1151, ../lib/functions/KcSeoOptions.php:1214, ../lib/functions/KcSeoOptions.php:1251, ../lib/functions/KcSeoOptions.php:1329, ../lib/functions/KcSeoOptions.php:1361, ../lib/functions/KcSeoOptions.php:1607, ../lib/functions/KcSeoOptions.php:1833, ../lib/functions/KcSeoOptions.php:1880, ../lib/views/schema-options.php:230
 msgid "Name"
 msgstr ""
 
-#: ../lib/functions/KcSeoOptions.php:110, ../lib/functions/KcSeoOptions.php:363, ../lib/functions/KcSeoOptions.php:458, ../lib/functions/KcSeoOptions.php:517, ../lib/functions/KcSeoOptions.php:612, ../lib/functions/KcSeoOptions.php:935, ../lib/functions/KcSeoOptions.php:1338, ../lib/functions/KcSeoOptions.php:1370, ../lib/functions/KcSeoOptions.php:1579, ../lib/functions/KcSeoOptions.php:1726, ../lib/functions/KcSeoOptions.php:1927, ../lib/views/schema-options.php:247
+#: ../lib/functions/KcSeoOptions.php:110, ../lib/functions/KcSeoOptions.php:363, ../lib/functions/KcSeoOptions.php:458, ../lib/functions/KcSeoOptions.php:517, ../lib/functions/KcSeoOptions.php:612, ../lib/functions/KcSeoOptions.php:935, ../lib/functions/KcSeoOptions.php:1338, ../lib/functions/KcSeoOptions.php:1370, ../lib/functions/KcSeoOptions.php:1579, ../lib/functions/KcSeoOptions.php:1726, ../lib/functions/KcSeoOptions.php:1927, ../lib/views/schema-options.php:253
 msgid "Image"
 msgstr ""
 
@@ -402,11 +402,11 @@ msgstr ""
 msgid "Postal Address"
 msgstr ""
 
-#: ../lib/functions/KcSeoOptions.php:674, ../lib/views/schema-options.php:308
+#: ../lib/functions/KcSeoOptions.php:674, ../lib/views/schema-options.php:314
 msgid "Street Address"
 msgstr ""
 
-#: ../lib/functions/KcSeoOptions.php:678, ../lib/views/schema-options.php:288
+#: ../lib/functions/KcSeoOptions.php:678, ../lib/views/schema-options.php:294
 msgid "Address Locality"
 msgstr ""
 
@@ -418,7 +418,7 @@ msgstr ""
 msgid "Ex: CA "
 msgstr ""
 
-#: ../lib/functions/KcSeoOptions.php:687, ../lib/views/schema-options.php:302
+#: ../lib/functions/KcSeoOptions.php:687, ../lib/views/schema-options.php:308
 msgid "Postal Code"
 msgstr ""
 
@@ -729,7 +729,7 @@ msgstr ""
 msgid "The two-letter country code, in ISO 3166-1 alpha-2 format."
 msgstr ""
 
-#: ../lib/functions/KcSeoOptions.php:1096, ../lib/views/schema-options.php:295
+#: ../lib/functions/KcSeoOptions.php:1096, ../lib/views/schema-options.php:301
 msgid "Address Region"
 msgstr ""
 
@@ -1057,7 +1057,7 @@ msgstr ""
 msgid "http://example.com/menu"
 msgstr ""
 
-#: ../lib/functions/KcSeoOptions.php:1584, ../lib/views/schema-options.php:270
+#: ../lib/functions/KcSeoOptions.php:1584, ../lib/views/schema-options.php:276
 msgid "Address"
 msgstr ""
 
@@ -1073,7 +1073,7 @@ msgstr ""
 msgid "Serves Cuisine"
 msgstr ""
 
-#: ../lib/functions/KcSeoOptions.php:1595, ../lib/views/schema-options.php:159
+#: ../lib/functions/KcSeoOptions.php:1595, ../lib/views/schema-options.php:165
 msgid "The cuisine of the restaurant."
 msgstr ""
 
@@ -1309,157 +1309,157 @@ msgstr ""
 msgid "Add \"Additional Type\""
 msgstr ""
 
-#: ../lib/views/schema-options.php:142
+#: ../lib/views/schema-options.php:144
 msgid ""
 "Product Ontology is an extension to schema using WikiPedia definitions that enables you to further define a type by adding an \"AdditionalType” attribute.Example for a Tailor (which is not available\n"
 "                                                as a schema “Type”): Pick LocalBusiness as a generic Type, then add additional type as follows:"
 msgstr ""
 
-#: ../lib/views/schema-options.php:156
+#: ../lib/views/schema-options.php:162
 msgid "Restaurant Information"
 msgstr ""
 
-#: ../lib/views/schema-options.php:167
+#: ../lib/views/schema-options.php:173
 msgid "Others local business info"
 msgstr ""
 
-#: ../lib/views/schema-options.php:177
+#: ../lib/views/schema-options.php:183
 msgid "Operation Hours"
 msgstr ""
 
-#: ../lib/views/schema-options.php:204
+#: ../lib/views/schema-options.php:210
 msgid "GeoCoordinates"
 msgstr ""
 
-#: ../lib/views/schema-options.php:207
+#: ../lib/views/schema-options.php:213
 msgid "Latitude"
 msgstr ""
 
-#: ../lib/views/schema-options.php:214
+#: ../lib/views/schema-options.php:220
 msgid "Longitude"
 msgstr ""
 
-#: ../lib/views/schema-options.php:231
+#: ../lib/views/schema-options.php:237
 msgid "Work For"
 msgstr ""
 
-#: ../lib/views/schema-options.php:239
+#: ../lib/views/schema-options.php:245
 msgid "Job Title"
 msgstr ""
 
-#: ../lib/views/schema-options.php:251
+#: ../lib/views/schema-options.php:257
 msgid "Add your personal photo here"
 msgstr ""
 
-#: ../lib/views/schema-options.php:262
+#: ../lib/views/schema-options.php:268
 msgid "Birth date"
 msgstr ""
 
-#: ../lib/views/schema-options.php:273
+#: ../lib/views/schema-options.php:279
 msgid "Address Country"
 msgstr ""
 
-#: ../lib/views/schema-options.php:317
+#: ../lib/views/schema-options.php:323
 msgid "Add New Address"
 msgstr ""
 
-#: ../lib/views/schema-options.php:324
+#: ../lib/views/schema-options.php:330
 msgid "Organization Logo"
 msgstr ""
 
-#: ../lib/views/schema-options.php:327, ../lib/views/schema-options.php:390
+#: ../lib/views/schema-options.php:333, ../lib/views/schema-options.php:396
 msgid "Social Profile"
 msgstr ""
 
-#: ../lib/views/schema-options.php:330
+#: ../lib/views/schema-options.php:336
 msgid "Corporate Contacts"
 msgstr ""
 
-#: ../lib/views/schema-options.php:336
+#: ../lib/views/schema-options.php:342
 msgid "Select Organization Logo"
 msgstr ""
 
-#: ../lib/views/schema-options.php:380
+#: ../lib/views/schema-options.php:386
 msgid "Company Name"
 msgstr ""
 
-#: ../lib/views/schema-options.php:387
+#: ../lib/views/schema-options.php:393
 msgid "Social Profiles"
 msgstr ""
 
-#: ../lib/views/schema-options.php:419
+#: ../lib/views/schema-options.php:425
 msgid "Add Social Profile"
 msgstr ""
 
-#: ../lib/views/schema-options.php:427
+#: ../lib/views/schema-options.php:433
 msgid "Contacts"
 msgstr ""
 
-#: ../lib/views/schema-options.php:446
+#: ../lib/views/schema-options.php:452
 msgid "Contact Phone"
 msgstr ""
 
-#: ../lib/views/schema-options.php:450
+#: ../lib/views/schema-options.php:456
 msgid "Please follow the format below"
 msgstr ""
 
-#: ../lib/views/schema-options.php:461
+#: ../lib/views/schema-options.php:467
 msgid "Contact Email"
 msgstr ""
 
-#: ../lib/views/schema-options.php:468
+#: ../lib/views/schema-options.php:474
 msgid "Contact Option"
 msgstr ""
 
-#: ../lib/views/schema-options.php:472
+#: ../lib/views/schema-options.php:478
 msgid "Select an option"
 msgstr ""
 
-#: ../lib/views/schema-options.php:475
+#: ../lib/views/schema-options.php:484
 msgid "TollFree"
 msgstr ""
 
-#: ../lib/views/schema-options.php:479
+#: ../lib/views/schema-options.php:488
 msgid "HearingImpairedSupported"
 msgstr ""
 
-#: ../lib/views/schema-options.php:485
+#: ../lib/views/schema-options.php:494
 msgid "Area Served"
 msgstr ""
 
-#: ../lib/views/schema-options.php:503
+#: ../lib/views/schema-options.php:512
 msgid "Available language"
 msgstr ""
 
-#: ../lib/views/schema-options.php:521
+#: ../lib/views/schema-options.php:530
 msgid "Site Schema"
 msgstr ""
 
-#: ../lib/views/schema-options.php:524
+#: ../lib/views/schema-options.php:533
 msgid "Disable Site Schema"
 msgstr ""
 
-#: ../lib/views/schema-options.php:532
+#: ../lib/views/schema-options.php:541
 msgid "Enable Site link Search Box"
 msgstr ""
 
-#: ../lib/views/schema-options.php:537
+#: ../lib/views/schema-options.php:546
 msgid "Note: Preferred Name markup may no longer be supported by Google"
 msgstr ""
 
-#: ../lib/views/schema-options.php:541
+#: ../lib/views/schema-options.php:550
 msgid "Site Name:"
 msgstr ""
 
-#: ../lib/views/schema-options.php:548
+#: ../lib/views/schema-options.php:557
 msgid "Site Alternative Name:"
 msgstr ""
 
-#: ../lib/views/schema-options.php:555
+#: ../lib/views/schema-options.php:564
 msgid "Site Url:"
 msgstr ""
 
-#: ../lib/views/schema-options.php:563, ../lib/views/settings.php:152
+#: ../lib/views/schema-options.php:572, ../lib/views/settings.php:152
 msgid "Save Changes"
 msgstr ""
 

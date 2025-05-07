@@ -18,6 +18,10 @@ if (!class_exists('KcSeoSettings')):
         }
 
         function isValidBase64($string = null) {
+            // Check if input is not a string
+            if ( !is_string( $string ) ) {
+                return false;
+            }
             $decoded = @base64_decode($string, true);
             // Check if there is no invalid character in string
             if (!@preg_match('/^[a-zA-Z0-9\/\r\n+]*={0,2}$/', $string)) {

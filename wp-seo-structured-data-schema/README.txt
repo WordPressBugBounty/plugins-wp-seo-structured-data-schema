@@ -3,8 +3,8 @@ Contributors: kcseopro
 Donate link:
 Tags: seo, schema, structured data, rich snippets, microdata
 Requires at least: 4.5
-Tested up to: 6.6
-Stable tag: 2.7.11
+Tested up to: 6.8
+Stable tag: 2.8.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -133,6 +133,11 @@ You'll find the [FAQ on WPSEMPlugins.com](https://wpsemplugins.com/wordpress-seo
 
 
 == Changelog ==
+
+= 2.8.0 ( May 07, 2025 ) =
+* Security: Settings Fields Sanitize
+* Fixed: PHP Notice
+* Fixed: Data Type check for Base64
 
 = 2.7.11 ( July 01, 2024) =
 * Fixed: Invalid country code
