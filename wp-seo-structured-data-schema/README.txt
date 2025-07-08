@@ -4,7 +4,7 @@ Donate link:
 Tags: seo, schema, structured data, rich snippets, microdata
 Requires at least: 4.5
 Tested up to: 6.8
-Stable tag: 2.8.0
+Stable tag: 2.8.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -133,6 +133,10 @@ You'll find the [FAQ on WPSEMPlugins.com](https://wpsemplugins.com/wordpress-seo
 
 
 == Changelog ==
+
+= 2.8.1 ( July 08, 2025 ) =
+* Schema: Schema for "Blog Posting, Video Date time Input Message Change"
+* Fixed: Very Old Version To new Version Migration issue
 
 = 2.8.0 ( May 07, 2025 ) =
 * Security: Settings Fields Sanitize

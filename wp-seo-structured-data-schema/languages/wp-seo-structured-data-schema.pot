@@ -6,7 +6,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-05-07 09:33+0000\n"
+"POT-Creation-Date: 2025-07-08 06:17+0000\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -14,67 +14,67 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../lib/classes/KcSeoHelper.php:484
+#: ../lib/classes/KcSeoHelper.php:488
 msgid "Pro Version Features"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:486
+#: ../lib/classes/KcSeoHelper.php:490
 msgid "Includes Auto-fill function <---Popular"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:487
+#: ../lib/classes/KcSeoHelper.php:491
 msgid "Supports Custom Post Types beyond default page and posts"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:488
+#: ../lib/classes/KcSeoHelper.php:492
 msgid "Supports WordPress Multisite"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:489
+#: ../lib/classes/KcSeoHelper.php:493
 msgid "Supports more schema types:"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:491
+#: ../lib/classes/KcSeoHelper.php:495
 msgid "Books"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:492
+#: ../lib/classes/KcSeoHelper.php:496
 msgid "Courses"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:493, ../lib/views/schema-options.php:227
+#: ../lib/classes/KcSeoHelper.php:497, ../lib/views/schema-options.php:227
 msgid "Person"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:494
+#: ../lib/classes/KcSeoHelper.php:498
 msgid "Job Postings"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:495
+#: ../lib/classes/KcSeoHelper.php:499
 msgid "Movies"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:496, ../lib/functions/KcSeoOptions.php:1800
+#: ../lib/classes/KcSeoHelper.php:500, ../lib/functions/KcSeoOptions.php:1800
 msgid "Music"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:497, ../lib/functions/KcSeoOptions.php:1804
+#: ../lib/classes/KcSeoHelper.php:501, ../lib/functions/KcSeoOptions.php:1804
 msgid "Recipe"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:498
+#: ../lib/classes/KcSeoHelper.php:502
 msgid "TV Episode"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:499, ../lib/functions/KcSeoOptions.php:1812
+#: ../lib/classes/KcSeoHelper.php:503, ../lib/functions/KcSeoOptions.php:1812
 msgid "QAPage"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:500, ../lib/functions/KcSeoOptions.php:1816
+#: ../lib/classes/KcSeoHelper.php:504, ../lib/functions/KcSeoOptions.php:1816
 msgid "Item List"
 msgstr ""
 
-#: ../lib/classes/KcSeoHelper.php:506
+#: ../lib/classes/KcSeoHelper.php:510
 msgid "Get the Pro Version"
 msgstr ""
 
@@ -170,7 +170,7 @@ msgstr ""
 msgid "Published date"
 msgstr ""
 
-#: ../lib/functions/KcSeoOptions.php:56, ../lib/functions/KcSeoOptions.php:63, ../lib/functions/KcSeoOptions.php:231, ../lib/functions/KcSeoOptions.php:238, ../lib/functions/KcSeoOptions.php:313, ../lib/functions/KcSeoOptions.php:320, ../lib/functions/KcSeoOptions.php:467, ../lib/functions/KcSeoOptions.php:475, ../lib/functions/KcSeoOptions.php:727, ../lib/functions/KcSeoOptions.php:734, ../lib/functions/KcSeoOptions.php:899, ../lib/functions/KcSeoOptions.php:1202, ../lib/functions/KcSeoOptions.php:1431, ../lib/functions/KcSeoOptions.php:1680, ../lib/functions/KcSeoOptions.php:1735, ../lib/functions/KcSeoOptions.php:1741, ../lib/functions/KcSeoOptions.php:1848, ../lib/functions/KcSeoOptions.php:1855
+#: ../lib/functions/KcSeoOptions.php:56, ../lib/functions/KcSeoOptions.php:63, ../lib/functions/KcSeoOptions.php:231, ../lib/functions/KcSeoOptions.php:238, ../lib/functions/KcSeoOptions.php:467, ../lib/functions/KcSeoOptions.php:475, ../lib/functions/KcSeoOptions.php:727, ../lib/functions/KcSeoOptions.php:734, ../lib/functions/KcSeoOptions.php:899, ../lib/functions/KcSeoOptions.php:1202, ../lib/functions/KcSeoOptions.php:1431, ../lib/functions/KcSeoOptions.php:1680, ../lib/functions/KcSeoOptions.php:1735, ../lib/functions/KcSeoOptions.php:1741, ../lib/functions/KcSeoOptions.php:1848, ../lib/functions/KcSeoOptions.php:1855
 msgid "Like this: 2024-01-05T08:00:00+08:00"
 msgstr ""
 
@@ -246,7 +246,7 @@ msgstr ""
 msgid "Upload date"
 msgstr ""
 
-#: ../lib/functions/KcSeoOptions.php:126, ../lib/functions/KcSeoOptions.php:379, ../lib/functions/KcSeoOptions.php:533
+#: ../lib/functions/KcSeoOptions.php:126, ../lib/functions/KcSeoOptions.php:533
 msgid "Like this: 2021-08-25 14:20:00"
 msgstr ""
 
@@ -328,6 +328,14 @@ msgstr ""
 
 #: ../lib/functions/KcSeoOptions.php:306, ../lib/functions/KcSeoOptions.php:460
 msgid "The representative image of the article. Only a marked-up image that directly belongs to the article should be specified.<br> Images should be at least 696 pixels wide. <br>Images should be in .jpg, .png, or. gif format."
+msgstr ""
+
+#: ../lib/functions/KcSeoOptions.php:313
+msgid "Schema.org recommends ISO 8601 format with timezone. Like this: 2024-01-05T08:00:00+08:00"
+msgstr ""
+
+#: ../lib/functions/KcSeoOptions.php:320, ../lib/functions/KcSeoOptions.php:379
+msgid "Schema.org recommends ISO 8601 format with timezone. Like this: 2024-02-05T09:20:00+08:00"
 msgstr ""
 
 #: ../lib/functions/KcSeoOptions.php:428
@@ -802,7 +810,7 @@ msgid "A URL pointing to the video thumbnail image file. Images must be at least
 msgstr ""
 
 #: ../lib/functions/KcSeoOptions.php:1170
-msgid "Updated date"
+msgid "Upload Date / Updated date"
 msgstr ""
 
 #: ../lib/functions/KcSeoOptions.php:1174

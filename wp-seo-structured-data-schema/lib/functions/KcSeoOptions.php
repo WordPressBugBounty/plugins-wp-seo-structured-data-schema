@@ -310,14 +310,14 @@ class KcSeoOptions {
 						'title'    => __( 'Published date', 'wp-seo-structured-data-schema' ),
 						'type'     => 'text',
 						'class'    => 'kcseo-date',
-						'desc'     => __( 'Like this: 2024-01-05T08:00:00+08:00', 'wp-seo-structured-data-schema' ),
+						'desc'     => __( 'Schema.org recommends ISO 8601 format with timezone. Like this: 2024-01-05T08:00:00+08:00', 'wp-seo-structured-data-schema' ),
 						'required' => true,
 					],
 					'dateModified'     => [
 						'title'    => __( 'Modified date', 'wp-seo-structured-data-schema' ),
 						'type'     => 'text',
 						'class'    => 'kcseo-date',
-						'desc'     => __( 'Like this: 2024-01-05T08:00:00+08:00', 'wp-seo-structured-data-schema' ),
+						'desc'     => __( 'Schema.org recommends ISO 8601 format with timezone. Like this: 2024-02-05T09:20:00+08:00', 'wp-seo-structured-data-schema' ),
 						'required' => true,
 					],
 					'publisher'        => [
@@ -376,7 +376,7 @@ class KcSeoOptions {
 								'title'    => esc_html__( 'Upload date', 'wp-seo-structured-data-schema' ),
 								'class'    => 'rtrs-date',
 								'required' => true,
-								'desc'     => esc_html__( 'Like this: 2021-08-25 14:20:00', 'wp-seo-structured-data-schema' ),
+								'desc'     => __( 'Schema.org recommends ISO 8601 format with timezone. Like this: 2024-02-05T09:20:00+08:00', 'wp-seo-structured-data-schema' ),
 							],
 							'duration'      => [
 								'type'  => 'text',
@@ -1167,7 +1167,7 @@ class KcSeoOptions {
 						'desc'        => __( 'A URL pointing to the video thumbnail image file. Images must be at least 160x90 pixels and at most 1920x1080 pixels.', 'wp-seo-structured-data-schema' ),
 					],
 					'uploadDate'       => [
-						'title'    => __( 'Updated date', 'wp-seo-structured-data-schema' ),
+						'title'    => __( 'Upload Date / Updated date', 'wp-seo-structured-data-schema' ),
 						'type'     => 'text',
 						'class'    => 'kcseo-date',
 						'required' => true,
